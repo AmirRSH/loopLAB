@@ -1,0 +1,29 @@
+
+#header{
+    width: 100%;
+    min-height: 700px;
+    background:linear-gradient(45deg , rgba(51, 51, 51, 0.548) , rgba(51, 51, 51, 0.295)) , url(../images/home.jpg) no-repeat center center;
+    background-size: cover;
+}
+.navbar{
+    border-bottom: 4px solid dodgerblue;
+    opacity: 0.7;
+}
+.inner{
+    padding-top: 100px;
+}
+body{
+    background-color: #333;
+    color: white;
+}
+#header .fa{
+    font-size: 20px;
+    background-color: white;
+    color: dodgerblue;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    padding: 4px;
+}
